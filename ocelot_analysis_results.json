@@ -1,0 +1,102 @@
+{
+  "video1": "02062025_IMAG0033_adjaramillo.AVI",
+  "video2": "IMAG0059.mp4",
+  "conclusion": "HIGH CONFIDENCE - SAME INDIVIDUAL",
+  "confidence": "85-95%",
+  "max_similarity": 100,
+  "sift_stats": {
+    "max": 100,
+    "mean": 100.0,
+    "std": 0.0,
+    "above_threshold": 144
+  },
+  "orb_stats": {
+    "max": 100,
+    "mean": 100.0,
+    "std": 0.0,
+    "above_threshold": 144
+  },
+  "total_comparisons": 144,
+  "best_matches": [
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 0,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 49,
+      "orb_matches": 50
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 1,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 38,
+      "orb_matches": 50
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 2,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 32,
+      "orb_matches": 50
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 3,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 35,
+      "orb_matches": 50
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 4,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 35,
+      "orb_matches": 50
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 5,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 43,
+      "orb_matches": 50
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 6,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 45,
+      "orb_matches": 50
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 7,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 40,
+      "orb_matches": 50
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 8,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 38,
+      "orb_matches": 50
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 9,
+      "sift_score": 100,
+      "orb_score": 100,
+      "sift_matches": 43,
+      "orb_matches": 50
+    }
+  ]
+}
