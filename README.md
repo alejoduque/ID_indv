@@ -14,6 +14,8 @@ Este sistema utiliza técnicas avanzadas de visión por computadora para identif
 - **Visualización clara**: Genera imágenes comparativas y reportes detallados
 - **Documentación completa**: Manuales en español e interpretación de resultados
 
+<img src="https://raw.githubusercontent.com/alejoduque/ID_indv/refs/heads/main/ocelot_enhanced_comparison.png" /> <br>
+
 ## 🚀 Instalación Rápida
 
 ```bash
@@ -123,4 +125,5 @@ Desarrollado como parte del Proyecto MANAKAI para conservación de fauna neotrop
 
 **Última actualización**: Agosto 2025  
 **Versión**: 1.0  
+
 **Estado**: Estable - Validado científicamente
