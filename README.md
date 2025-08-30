@@ -119,11 +119,12 @@ Este proyecto está bajo licencia MIT. Ver archivo `LICENSE` para detalles.
 
 ## 🏆 Reconocimientos
 
-Desarrollado como parte del Proyecto MANAKAI para conservación de fauna neotropical mediante tecnologías no invasivas de monitoreo.
+Desarrollado inicialmente como parte del Proyecto MANAKAI para conservación de fauna neotropical mediante tecnologías no invasivas de monitoreo.
 
 ---
 
 **Última actualización**: Agosto 2025  
 **Versión**: 1.0  
 
-**Estado**: Estable - Validado científicamente
+**Estado**: Estable 
+
