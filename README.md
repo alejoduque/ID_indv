@@ -57,21 +57,34 @@ pip install opencv-python matplotlib numpy
 ## 💻 Uso Básico
 
 ### 🎥 Comparación de Videos (Recomendado)
+**El sistema acepta las rutas de los videos como argumentos de línea de comandos:**
+
 ```bash
 # Activar el entorno virtual
 source ocelot_env/bin/activate
 
-# Comparar dos videos de ocelotes
+# Sintaxis: python3 ocelot_video_comparison.py <ruta_video1> <ruta_video2>
 python3 ocelot_video_comparison.py video1.mov video2.mov
 
-# Ejemplo con videos de prueba
+# Ejemplo con videos de prueba incluidos
 python3 ocelot_video_comparison.py 1.mov 2.mov
+
+# Ejemplo con rutas completas
+python3 ocelot_video_comparison.py "/ruta/completa/ocelote1.mov" "/ruta/completa/ocelote2.mp4"
 ```
 
+**Formatos de video soportados:** .mov, .mp4, .avi, .mkv y otros formatos compatibles con OpenCV
+
 ### 📷 Comparación de Imágenes Estáticas
+**Para imágenes estáticas, también se pueden pasar como argumentos:**
+
 ```bash
-# Colocar imágenes como Ocelote_compare_1.jpg y Ocelote_compare_2.jpg
+# Sintaxis: python3 ocelot_pattern_comparison.py <imagen1> <imagen2>
 python3 ocelot_pattern_comparison.py imagen1.jpg imagen2.jpg
+
+# O usar las imágenes predeterminadas (sin argumentos)
+python3 ocelot_pattern_comparison.py
+# (Busca automáticamente Ocelote_compare_1.jpg y Ocelote_compare_2.jpg)
 ```
 
 ### 📊 Archivos Generados
