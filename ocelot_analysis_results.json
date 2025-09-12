@@ -1,0 +1,172 @@
+{
+  "video1": "1.mov",
+  "video2": "2.mov",
+  "conclusion": "MODERATE-HIGH CONFIDENCE - LIKELY SAME INDIVIDUAL",
+  "confidence": "75-85%",
+  "max_similarity": 100,
+  "max_pattern_similarity": 49.67203751732747,
+  "weighted_score": 549.0,
+  "sift_stats": {
+    "max": 50.0,
+    "mean": 37.12962962962962,
+    "std": 6.325504149353174,
+    "above_threshold": 102
+  },
+  "orb_stats": {
+    "max": 100,
+    "mean": 100.0,
+    "std": 0.0,
+    "above_threshold": 108
+  },
+  "pattern_stats": {
+    "max": 49.67203751732747,
+    "mean": 38.92227916565077,
+    "std": 9.659244742577162,
+    "above_threshold": 96
+  },
+  "rosette_stats": {
+    "max": 52.28321096765688,
+    "mean": 37.110758777253515,
+    "std": 13.788627525944188,
+    "above_threshold": 96
+  },
+  "spot_stats": {
+    "max": 44.00393559380935,
+    "mean": 43.149160071911034,
+    "std": 0.33851739750678,
+    "above_threshold": 108
+  },
+  "total_comparisons": 108,
+  "best_matches": [
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 0,
+      "sift_score": 40.0,
+      "orb_score": 100,
+      "pattern_score": 41.299242223804036,
+      "rosette_score": 40.49331912960531,
+      "spot_score": 43.17972944360107,
+      "sift_matches": 12,
+      "orb_matches": 50,
+      "rosette_matches": 1,
+      "spot_matches": 173
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 1,
+      "sift_score": 43.333333333333336,
+      "orb_score": 100,
+      "pattern_score": 45.0675215261304,
+      "rosette_score": 46.20712195250367,
+      "spot_score": 42.40845386459278,
+      "sift_matches": 13,
+      "orb_matches": 50,
+      "rosette_matches": 3,
+      "spot_matches": 166
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 2,
+      "sift_score": 43.333333333333336,
+      "orb_score": 100,
+      "pattern_score": 12.903003999488805,
+      "rosette_score": 0,
+      "spot_score": 43.01001333162935,
+      "sift_matches": 13,
+      "orb_matches": 50,
+      "rosette_matches": 0,
+      "spot_matches": 168
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 3,
+      "sift_score": 36.666666666666664,
+      "orb_score": 100,
+      "pattern_score": 34.65363968852627,
+      "rosette_score": 31.237098178582933,
+      "spot_score": 42.62556987839407,
+      "sift_matches": 11,
+      "orb_matches": 50,
+      "rosette_matches": 1,
+      "spot_matches": 171
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 4,
+      "sift_score": 40.0,
+      "orb_score": 100,
+      "pattern_score": 39.491763819338686,
+      "rosette_score": 37.84888888888889,
+      "spot_score": 43.325138657054886,
+      "sift_matches": 12,
+      "orb_matches": 50,
+      "rosette_matches": 1,
+      "spot_matches": 173
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 5,
+      "sift_score": 33.33333333333333,
+      "orb_score": 100,
+      "pattern_score": 12.844056734394869,
+      "rosette_score": 0,
+      "spot_score": 42.8135224479829,
+      "sift_matches": 10,
+      "orb_matches": 50,
+      "rosette_matches": 0,
+      "spot_matches": 175
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 6,
+      "sift_score": 43.333333333333336,
+      "orb_score": 100,
+      "pattern_score": 39.834505689353975,
+      "rosette_score": 38.454041615093296,
+      "spot_score": 43.05558852929556,
+      "sift_matches": 13,
+      "orb_matches": 50,
+      "rosette_matches": 3,
+      "spot_matches": 171
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 7,
+      "sift_score": 40.0,
+      "orb_score": 100,
+      "pattern_score": 41.74157578009906,
+      "rosette_score": 41.102750036029754,
+      "spot_score": 43.23216918292746,
+      "sift_matches": 12,
+      "orb_matches": 50,
+      "rosette_matches": 2,
+      "spot_matches": 174
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 8,
+      "sift_score": 40.0,
+      "orb_score": 100,
+      "pattern_score": 12.872019620350033,
+      "rosette_score": 0,
+      "spot_score": 42.906732067833445,
+      "sift_matches": 12,
+      "orb_matches": 50,
+      "rosette_matches": 0,
+      "spot_matches": 175
+    },
+    {
+      "frame1_idx": 0,
+      "frame2_idx": 9,
+      "sift_score": 40.0,
+      "orb_score": 100,
+      "pattern_score": 38.39343472703048,
+      "rosette_score": 36.35720278213814,
+      "spot_score": 43.14464259844594,
+      "sift_matches": 12,
+      "orb_matches": 50,
+      "rosette_matches": 2,
+      "spot_matches": 183
+    }
+  ]
+}
