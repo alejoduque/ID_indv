@@ -7,7 +7,8 @@
 
 "La tecnología estructura cómo los animales y los humanos comparten espacios, actúa como mediadora y 'conectora' de vidas a través del tiempo y el espacio. 'Facilita' formas de observar, medir, mover y matar, así como controlar, contener, conservar y cooperar con los animales. Configura las relaciones humanas con el mundo no humano, explorando a los animales no humanos como parientes, compañeros, alimento, transgresores, entretenimiento y herramientas." Tomado del libro "Compartiendo Espacios" para tener claro que eso que vemos con camaras trampas genera tambien distanciamiento y una mirada desde el control, intrusiva y antropocentrica.
 
-Como preservar la alteridad radical de cada especie mientras sus individuos agencian en redes amplias y complejas que no comprendemos. Como identificaciar individuos sin simplificarlos a quasi-objetos pero si como seres de una comunidad por venir.
+¿Cómo preservar la alteridad radical de cada especie mientras sus individuos agencian dentro de redes amplias y complejas que no comprendemos? 
+¿Cómo y para qué realizar identificación individuos sin simplificarlos a quasi-objetos pero si como seres de una comunidad por venir?
 
 ## 📋 Descripción
 
@@ -206,6 +207,7 @@ Desarrollado inicialmente como parte del Proyecto MANAKAI para conservación de 
 **Versión**: 2.0 - Sistema Mejorado con Análisis de Patrones Específicos  
 
 **Estado**: Producción - Completamente funcional con mejoras significativas 
+
 
 
 
