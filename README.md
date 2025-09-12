@@ -1,11 +1,13 @@
-# 🐆 Sistema Avanzado de Identificación Individual de Ocelotes - Proyecto MANAKAI
+# 🐆 Sistema de Identificación Individual de Ocelotes - Proyecto MANAKAI
 
 > Sistema automatizado mejorado para identificación de individuos de ocelote usando análisis especializado de patrones de rosetas y manchas en videos de cámaras trampa
 
 
-Las vidas humanas y animales se intersectan, ya sea a través del contacto físico directo o al habitar el mismo espacio en momentos diferentes. Los académicos de las humanidades ambientales han comenzado a investigar estas relaciones a través del campo emergente de los estudios multiespecíficos, construyendo sobre décadas de trabajo en historia animal, estudios feministas y epistemologías indígenas. Los contribuyentes a este volumen consideran las relaciones humano-animales entrelazadas de un mundo multiespecífico complejo, donde animales domésticos, animales salvajes y personas se cruzan en el camino, creando naturalezas-culturas híbridas. La tecnología, argumentan, estructura cómo los animales y los humanos comparten espacios. Desde la ropa hasta los automóviles y las computadoras, la tecnología actúa como mediadora y conectora de vidas a través del tiempo y el espacio. Facilita formas de observar, medir, mover y matar, así como controlar, contener, conservar y cooperar con los animales. "Compartiendo Espacios" nos desafía a analizar cómo la tecnología configura las relaciones humanas con el mundo no humano, explorando a los animales no humanos como parientes, compañeros, alimento, transgresores, entretenimiento y herramientas.
+<img src="https://raw.githubusercontent.com/alejoduque/ID_indv/refs/heads/main/ocelot_enhanced_pattern_matches.png" /> <br>
 
+"La tecnología estructura cómo los animales y los humanos comparten espacios, actúa como mediadora y 'conectora' de vidas a través del tiempo y el espacio. 'Facilita' formas de observar, medir, mover y matar, así como controlar, contener, conservar y cooperar con los animales. Configura las relaciones humanas con el mundo no humano, explorando a los animales no humanos como parientes, compañeros, alimento, transgresores, entretenimiento y herramientas." Tomado del libro "Compartiendo Espacios" para tener claro que eso que vemos con camaras trampas genera tambien distanciamiento y una mirada desde el control, intrusiva y antropocentrica.
 
+Como preservar la alteridad radical de cada especie mientras sus individuos agencian en redes amplias y complejas que no comprendemos. Como identificaciar individuos sin simplificarlos a quasi-objetos pero si como seres de una comunidad por venir.
 
 ## 📋 Descripción
 
@@ -204,5 +206,6 @@ Desarrollado inicialmente como parte del Proyecto MANAKAI para conservación de 
 **Versión**: 2.0 - Sistema Mejorado con Análisis de Patrones Específicos  
 
 **Estado**: Producción - Completamente funcional con mejoras significativas 
+
 
 
